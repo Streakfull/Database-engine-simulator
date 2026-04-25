@@ -94,7 +94,3 @@ condition._strOperator = ">";
 condition._objValue = 90.0;
 engine.selectFromTable(new SQLTerm[]{ condition }, new String[]{});
 ```
-
-## Authors
-
-- **Philip Mouris**
